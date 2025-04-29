@@ -58,3 +58,8 @@ The application is fully responsive and adapts perfectly to all screen sizes —
 # Preview 
 ![YoutubeClone](https://github.com/user-attachments/assets/9e69f020-3f14-44ff-b6e5-30e5ac1bf3f2)
 
+
+# 📧 Contact 
+gunaydinsemra34#gmail.com
+semra.gunaydinwork@outlook.com
+
