@@ -60,6 +60,7 @@ The application is fully responsive and adapts perfectly to all screen sizes —
 
 
 # 📧 Contact 
-gunaydinsemra34#gmail.com
+
+gunaydinsemra34@gmail.com
 semra.gunaydinwork@outlook.com
 
